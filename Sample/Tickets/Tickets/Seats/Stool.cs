@@ -1,5 +1,3 @@
-using Core.Aggregates;
-
 namespace Tickets.Seats;
 
 public class Stool: Seat
