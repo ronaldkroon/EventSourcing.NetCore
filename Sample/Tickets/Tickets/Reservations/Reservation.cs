@@ -10,6 +10,7 @@ namespace Tickets.Reservations;
 public class Reservation : Aggregate
 {
     public Guid SeatId { get; private set; }
+    public Guid SeatId1 { get; private set; }
 
     public string Number { get; private set; } = default!;
 
