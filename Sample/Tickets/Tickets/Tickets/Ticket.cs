@@ -12,5 +12,7 @@ public class Ticket : Aggregate
     {
         SeatId = seatId;
         Number = number;
+        // Wijziging van mij
+        //Nog iets
     }
 }
